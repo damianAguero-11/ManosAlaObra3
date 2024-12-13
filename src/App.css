@@ -1,0 +1,135 @@
+.titulo{
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: bolder;
+    text-transform: uppercase;
+   
+   
+    height:45px;
+    margin: auto;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 10px;
+   
+  }
+  
+  h2{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 10px;
+  }
+  .body{
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .formulario,form{
+    width:908px;
+    height: 80px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 0px;
+    padding: 10px;
+  }
+  
+  
+  
+  .entrada{
+  width: 60%;
+  height: 50px;
+  font-size: 20px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  font-family: sans-serif;
+  
+  }
+  
+  .boton{
+  width: 10%;
+  height: 50px;
+  margin-left: 10px;
+  text-transform: uppercase;
+  background-color: white;
+  font-size: 20px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  }
+  
+  ul{
+   
+  list-style-type: none;
+  width:908px;
+ padding: 10px;
+  text-align: center;
+  padding-left: 12px;
+  margin: auto;
+ 
+  }
+  
+  li{
+  border:2px solid black;
+  padding: 10px ;
+  width: 615px;
+  margin: auto;
+  display: flex;
+  margin-bottom: 25px;
+  text-align: left;
+  height:40px;
+  justify-content: left;
+  align-items: center;
+
+  
+  }
+  
+  .checkboton{
+    padding-top:20px ;
+    height: 35px;
+    width: 35px;
+    
+  }
+  
+  label,.compleat{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-transform: capitalize;
+    font-size:30px;
+    box-sizing: border-box;
+    width: 550px ;
+    
+  }
+  
+  .imagen-basura{
+  
+    width:30px;
+    height:30px;
+    
+    background-color: white;
+  }
+  .boton-basura{
+    background-color: transparent;
+    border:none;
+   
+ padding-right: 10px;
+  }
+  
+  .compleat{
+  text-decoration: line-through;
+  
+ 
+  }
+
+  p{
+    padding: 10px 0px 10px 0px;
+   
+  }
+  
+  
+  
